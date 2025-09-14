@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+body {
+	background-image: url('../images/santiago.png');
+	background-repeat: no-repeat;
+	background-size: 100% 105vh;
+	background-attachment: fixed;
+	background-color: rgba(255,255,255,0.9);
+    background-blend-mode: lighten;
+}
+
+iframe{
+	margin: 30px 20px;
+	border: 0px;
+	width: 100%;
+	height: 100vh;
+}
+
+.fusion-container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+main.cards{
+	
+	margin: 20px;
+	align-items: center;
+	text-align: center;
+	
+	
+}
+
+.line{
+	display: flex;
+}
+
+main.cards section.card{
+	width: 50%;
+	height: 40px;
+	margin: 10px 30px;
+	padding: 35px;
+	display: flex;
+	
+	background-color: #007af4;
+	align-items: center;
+	justify-content: center;
+	color: #fff;	
+	border-radius: 10px;
+	font-size: 35px;
+	font-weight: 600;
+	transition: .5s;
+}
+
+main.cards section.card:hover{
+	cursor: pointer;
+	background-color: #53a2f1;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
