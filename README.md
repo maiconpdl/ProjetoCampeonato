@@ -4,6 +4,7 @@ Aplicação web desenvolvida em Java com páginas em ASP (Active Server Pages), 
 
 <br>
 <br>
+
 ## 🚀 Funcionalidades
 Cadastro de Equipes: Registro dos participantes e equipes inscritas no campeonato.
 
@@ -26,6 +27,7 @@ Banco de Dados: (Insira aqui o banco de dados utilizado, ex: MySQL, PostgreSQL, 
 
 <br>
 <br>
+
 ## ⚙️ Como Executar o Projeto
 Siga os passos abaixo para configurar e rodar a aplicação em sua máquina local:
 
