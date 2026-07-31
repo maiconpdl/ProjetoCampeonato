@@ -1,10 +1,10 @@
-**ProjetoCampeonato 🎣🏆
+# ProjetoCampeonato 🎣🏆
 
 Aplicação web desenvolvida em Java com páginas em ASP (Active Server Pages), criada para gerenciar e automatizar a apuração de resultados de campeonatos de pesca. O sistema controla o cadastro de equipes, registra o peso dos peixes capturados, calcula automaticamente a pontuação por etapa e gera o ranking final da competição.
 
 <br>
 <br>
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 Cadastro de Equipes: Registro dos participantes e equipes inscritas no campeonato.
 
 Controle por Etapas: Organização da competição dividida em múltiplas etapas ou dias de pesca.
@@ -15,7 +15,7 @@ Cálculo Automático de Pontuação: Processamento dinâmico das pontuações co
 
 Resultados Finais: Geração e exibição do ranking geral e do vencedor do campeonato de forma automatizada.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Linguagem Principal: Java (Regras de negócio, lógica da aplicação e conexão com banco de dados).
 
 Interface Web (Frontend): ASP (Active Server Pages) para a renderização das páginas e interação com o usuário.
@@ -26,7 +26,7 @@ Banco de Dados: (Insira aqui o banco de dados utilizado, ex: MySQL, PostgreSQL, 
 
 <br>
 <br>
-⚙️ Como Executar o Projeto
+## ⚙️ Como Executar o Projeto
 Siga os passos abaixo para configurar e rodar a aplicação em sua máquina local:
 
 <br>
@@ -56,7 +56,7 @@ Abra o seu navegador e acesse: http://localhost:8080/ProjetoCampeonato (ou a por
 
 
 
-🤝 Como Contribuir
+## 🤝 Como Contribuir
 Contribuições são sempre bem-vindas! Se você quiser melhorar o projeto:
 
 Faça um Fork do projeto.
